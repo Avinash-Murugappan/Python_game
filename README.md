@@ -35,3 +35,7 @@ Despite of always wanted to learn python from my undergrad days, Finally I did b
 
 * [PyGame Primer](https://realpython.com/pygame-a-primer/) - A quick tutorial on PyGame that you can follow along with.
 * [PyGame Tutorial](https://www.youtube.com/watch?v=FfWpgLFMI7w) - A great (2 hour) PyGame tutorial by FreeCodeCamp.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md] file for details.
