@@ -7,7 +7,7 @@ A modified version of Flappy Bird, built using [PyGame](https://www.pygame.org/)
 
 
 ## Inspiration
-Despite of always wanted to learn python from my undergrad days, Finally I did but I never built a game before!I knew someday that I will make a game and learn the process. Most of this project involved Studying the process and customizing the code from my understanding. [existing code](https://github.com/popadi/python-flappy-bird). While I was on it, I also added my own fun ideas.
+Despite of always wanted to learn python from my undergrad days, Finally I did but I never built a game before! I knew someday that I will make a game and learn the process. Most of this project involved Studying the process and customizing the code from my understanding. [existing code](https://github.com/popadi/python-flappy-bird). While I was on it, I also added my own fun ideas.
 
 ## Installation
 1. Install Python 3.7.x if necessary (instuctions [here](https://realpython.com/installing-python))
