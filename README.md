@@ -1,4 +1,4 @@
-# Flappy Bird ft. Potter
+# Flappy Bird ft.(Harry Potter)
 Python Game Development
 
 A modified version of Flappy Bird, built using [PyGame](https://www.pygame.org/), with customized graphics.
